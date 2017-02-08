@@ -2,8 +2,8 @@ require 'formula'
 
 class PythonMecab < Formula
   homepage 'http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html'
-  url 'https://mecab.googlecode.com/files/mecab-python-0.996.tar.gz'
-  sha1 'b7801d78b4def5118903f3d7b97968b106aa8ea8'
+  url 'https://drive.google.com/uc?export=download&id=0B4y35FiV1wh7cENtOXlicTFaRUE'
+  sha256 'e073325783135b72e666145c781bb48fada583d5224fb2490fb6c1403ba69c59'
 
   depends_on 'python'
   depends_on 'mecab'
